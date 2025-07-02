@@ -1,0 +1,19 @@
+<div class="cabecalho">
+    Componentes e Materiais Utilizados
+</div>
+
+<div class="conteudo regular">
+
+- **SBCs utilizados**:  
+  Raspberry Pi (ou outro SBC escolhido para o projeto).
+  
+- **Joysticks**:  
+  14 botões, modelo PlayStation 1, sem controle analógico.
+  
+- **Outros materiais**:  
+  Fios, solda, conectores USB, botões e outros componentes eletrônicos necessários para a construção dos joysticks.
+
+- **Objetivo da escolha dos materiais**:  
+  Utilização de componentes de baixo custo, acessíveis e eficientes, para otimizar o uso de portas do SBC e manter o projeto simples.
+
+</div>
