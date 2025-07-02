@@ -4,6 +4,9 @@
 
 <div class="conteudo regular">
 
+<br/>
+<br/>
+
 - **Sistema USB-IP**:
   - Os joysticks foram conectados a outros dispositivos (computadores, celulares) utilizando o sistema **USB-IP**, que permite compartilhar dispositivos USB na rede.
   - Essa configuração permitiu o uso dos joysticks conectados diretamente a outros dispositivos que não estavam fisicamente próximos ao SBC.
