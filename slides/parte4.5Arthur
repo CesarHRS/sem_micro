@@ -1,0 +1,19 @@
+<div class="cabecalho">
+    Conexão dos Joysticks via USB-IP e Testes de Jogos
+</div>
+
+<div class="conteudo regular">
+
+- **Sistema USB-IP**:
+  - Os joysticks foram conectados a outros dispositivos (computadores, celulares) utilizando o sistema **USB-IP**, que permite compartilhar dispositivos USB na rede.
+  - Essa configuração permitiu o uso dos joysticks conectados diretamente a outros dispositivos que não estavam fisicamente próximos ao SBC.
+
+- **Testes realizados**:
+  - Realização de testes com **jogos NES**, **SNES** e **Pico8**.
+  - Interação dos joysticks com os jogos, verificando a funcionalidade dos botões e a resposta do sistema.
+
+- **Desempenho dos jogos**:
+  - Observações sobre a resposta dos botões nos jogos testados.
+  - Como o sistema se comportou durante os testes e a jogabilidade.
+
+</div>
