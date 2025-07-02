@@ -1,0 +1,19 @@
+<div class="cabecalho">
+    Construção dos Joysticks DIY (faça você mesmo)
+</div>
+
+<div class="conteudo regular">
+
+- **Design dos Joysticks**:  
+  - Cada joystick possui **14 botões**, modelo PlayStation 1 (sem controle analógico).
+  - A escolha dos 14 botões foi para garantir uma jogabilidade eficiente e simples, atendendo às necessidades dos jogos testados.
+  
+- **Processo de construção**:
+  - Soldagem dos botões em uma placa de circuito impresso.
+  - Montagem física dos botões e conexões.
+  - Conexão dos botões ao **SBC** através de um cabo USB.
+
+- **Conexões com o SBC**:
+  - Joysticks conectados ao SBC via portas USB, utilizando o sistema USB padrão para reconhecimento e funcionamento.
+
+</div>
