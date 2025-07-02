@@ -1,0 +1,18 @@
+<div class="cabecalho">
+    Descrição Geral do TP e Objetivos
+</div>
+
+<div class="conteudo regular">
+
+- **Objetivo do TP**:  
+  Construção de um "quasi-arcade" utilizando computadores de placa única (SBC) para controle de jogos clássicos.
+
+- **Componentes principais**:
+    - Joysticks DIY (faça você mesmo) com 14 botões cada.
+    - Sistema de ROMs em rede.
+    - Suporte a joysticks USB conectados via USB-IP.
+
+- **Jogos testados**:
+    - NES, SNES e Pico8 (com foco em jogos simples que não demandam key rollover).
+
+</div>
