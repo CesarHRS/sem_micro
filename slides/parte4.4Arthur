@@ -1,0 +1,18 @@
+<div class="cabecalho">
+    Configuração do Sistema de ROMs em Rede
+</div>
+
+<div class="conteudo regular">
+
+- **Escolha dos Jogos**:  
+  - **NES**, **SNES** e **Pico8** — jogos simples que não demandam key rollover.
+  
+- **Configuração das ROMs**:
+  - As ROMs dos jogos foram armazenadas em uma **rede compartilhada**, acessada diretamente pelo SBC.
+  - O SBC foi configurado para **carregar as ROMs da rede**, permitindo fácil acesso a diferentes jogos.
+  
+- **Configuração do SBC**:
+  - Instalação das ferramentas necessárias para rodar os jogos (emuladores, dependências).
+  - Testes para garantir que os jogos fossem executados corretamente no SBC.
+
+</div>
