@@ -1,0 +1,17 @@
+<div class="cabecalho">
+    Desafios e Melhorias Futuras
+</div>
+
+<div class="conteudo regular">
+
+- **Desafios encontrados**:
+  - Problemas com a **reconhecimento dos botões** durante os testes.
+  - Desafios na **configuração da rede** para garantir o acesso às ROMs.
+  - Questões de **latência** e **sincronização** entre os joysticks e o SBC durante o uso de USB-IP.
+
+- **Possíveis melhorias**:
+  - **Expansão do número de botões**: Aumento da capacidade dos joysticks, adicionando mais botões para jogos mais complexos.
+  - **Melhorias na conexão USB-IP**: Garantir uma conexão mais estável e com menor latência.
+  - **Suporte a mais jogos**: Ampliar a biblioteca de jogos testados e adicionar suporte a jogos mais avançados.
+
+</div>
