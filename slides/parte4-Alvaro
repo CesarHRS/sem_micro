@@ -1,0 +1,13 @@
+<div class="cabecalho">
+Aplicações Típicas de SBCs no Mercado
+</div>
+<div class= "conteudo regular">
+ *Sistemas Multimídia e Entretenimento::*
+
+- Muitos centros de mídia domésticos (HTPCs) são construídos com SBCs. Eles podem reproduzir vídeos em alta definição, organizar bibliotecas de música e fotos, e até rodar emuladores de jogos retrô.
+
+- São a base de caixas de IPTV e soluções de streaming de baixo custo.
+
+- **Exemplos:** Um Odroid ou Raspberry Pi transformando uma TV comum em uma smart TV com acesso a conteúdo online e mídia local.
+
+</div>
