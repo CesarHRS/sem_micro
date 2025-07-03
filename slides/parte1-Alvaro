@@ -1,0 +1,11 @@
+<div class="cabecalho">
+    Aplicações Típicas de SBCs no Mercado
+</div>
+<div class= "conteudo regular">
+ Automação Residencial
+
+**Controle Inteligente:** Luzes, termostatos, sistemas de segurança.
+
+**Exemplo:** Um **Raspberry Pi** gerenciando um hub doméstico, automatizando persianas ou monitorando o consumo de energia.
+
+</div>
